@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  <body>
+    <div class="header">
+    <h1>Peaches</h1>
+      <div/>
+    
+    <img src="https://cdn.cnn.com/cnnnext/dam/assets/191008033934-peach-emoji-exlarge-169.jpg"/>
+    
+    <h4> Article Title</h4>
+    <p>just normal text</p>
+    <ol>
+      <li>cheese<//li>
+    </ol>
+  </body>
+</html>
